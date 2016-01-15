@@ -1,0 +1,25 @@
+@import url(bootstrap.css);
+@import url(default.css);
+@import url(template.css);
+@import url(touch.gallery.css);
+@import url(responsive.css);
+@import url(komento.css);
+@import url(layout.css);
+@import url(camera.css);
+@import url(superfish.css);
+@import url(superfish-navbar.css);
+@import url(superfish-vertical.css);
+.flex {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex; }
+
+.block {
+  display: block; }
+
+.error {
+  color: red; }
+
+.user-question__message {
+  height: 10rem; }
